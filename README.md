@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # car_crash_detection
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Car-Crash-detection
+>>>>>>> 54d87239849e1a17c1017558c88d24f5fde18a65
